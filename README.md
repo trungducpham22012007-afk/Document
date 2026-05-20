@@ -49,7 +49,7 @@ Chào mừng bạn đến với kho lưu trữ các khái niệm nền tảng v�
 Là nơi lưu trữ dữ liệu tập trung của hệ thống, được chia làm 2 trường phái phổ biến:
 
 * **Relational Database (CSDL Quan hệ):** Hệ thống lưu trữ dữ liệu chặt chẽ dưới dạng các **Bảng** (gồm hàng và cột), liên kết chặt chẽ với nhau thông qua các từ khóa chìa khóa (thường gọi là **ID**).
-* **NoSQL Database (CSDL Phi quan hệ):** Loại cơ sở dữ liệu không dùng cấu trúc bảng mà sinh ra để chứa các kiểu dữ liệu tự do, không có hình dạng cố định và biến đổi liên tục.
+* **NoSQL Database (CSDL phi quan hệ):** Loại cơ sở dữ liệu không dùng cấu trúc bảng mà được sinh ra để chứa các kiểu dữ liệu tự do, không có hình dạng cố định và biến đổi liên tục.
 
 ### 🗣️ SQL
 > **SQL** = *Structured Query Language* (Ngôn ngữ truy vấn có cấu trúc)
